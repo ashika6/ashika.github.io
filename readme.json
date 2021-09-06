@@ -1,1 +1,45 @@
-
+{
+  "PROJECT": {
+    "NAME": "",
+    "ICON": {
+      "IMAGE": "",
+      "ALT": "",
+      "WIDTH": 0,
+      "HEIGHT": 0
+    },
+    "URL": "",
+    "URL_TITLE": ""
+  },
+  "AUTHOR": {
+    "NAME": "",
+    "URL": "",
+    "ALT": "",
+    "DATE": "",
+    "SECTION": {
+      "TITLE": "Author",
+      "SHOW": true
+    }
+  },
+  "DESCRIPTION": "",
+  "BADGES": {
+    "0": {
+      "IMAGE": "",
+      "HREF": "",
+      "ALT": ""
+    },
+    "1": {
+      "IMAGE": "",
+      "HREF": "",
+      "ALT": ""
+    },
+    "2": {
+      "NEWLINE": true
+    },
+    "3": {
+      "IMAGE": "",
+      "HREF": "",
+      "ALT": ""
+    }
+  },
+  "CONTENT": "readme.content.md"
+}
