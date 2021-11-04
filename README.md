@@ -11,4 +11,5 @@ Skills: Python/ Tensorflow/ Pytorch/ OpenCV/ HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GitHub.com/ashika6)  
 
+[![Ashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashika)](https://github.com/ashika/github-readme-stats)
 
